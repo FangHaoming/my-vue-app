@@ -1,6 +1,6 @@
 export default [
   {
-    path: '/second',
+    path: '/dist/second',
     name: 'second',
     component: () => import('@/views/Second/SecondPage'),
   },

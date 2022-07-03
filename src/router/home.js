@@ -1,6 +1,6 @@
 export default [
   {
-    path: '/',
+    path: '/dist/',
     name: 'home',
     component: () => import('@/views/Home/HomePage'),
   },
