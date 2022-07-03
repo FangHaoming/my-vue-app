@@ -7,6 +7,7 @@ Vue.use(Router)
 
 const outRouter = new Router({
   mode: 'history',
+  base: process.env.BASE_URL,
   routes: [
     ...Home,
     ...Second,
