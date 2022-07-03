@@ -1,5 +1,5 @@
 <template>
-  <router-link to="/second">跳转到第二个页面</router-link>
+  <router-link to="/dist/second">跳转到第二个页面</router-link>
 </template>
 
 <script>
