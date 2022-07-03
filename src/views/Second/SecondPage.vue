@@ -1,5 +1,5 @@
 <template>
-  <router-link to="/dist">跳转到主页面</router-link>
+  <router-link to="/my-vue-app">跳转到主页面</router-link>
 </template>
 
 <script>
